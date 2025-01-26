@@ -28,3 +28,4 @@ build/
 # Local development settings
 .env.local
 .env.*.local 
+.cursorrules
